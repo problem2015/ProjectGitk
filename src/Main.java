@@ -9,6 +9,11 @@ public class Main {
 
         System.out.println(twonumbers);
 
+
+        String name = "Ahmed";
+
+        System.out.println(name);
+
         
     }
 }
