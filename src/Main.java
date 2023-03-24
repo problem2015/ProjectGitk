@@ -5,6 +5,10 @@ public class Main {
 
         System.out.println(numbers);
 
+        int twonumbers = 0;
+
+        System.out.println(twonumbers);
+
         
     }
 }
