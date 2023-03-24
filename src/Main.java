@@ -1,7 +1,9 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
-        int Numbers = 0;
+        int numbers = 0;
+
+        System.out.println(numbers);
 
         
     }
